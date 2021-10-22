@@ -1,4 +1,4 @@
-﻿BEGIN_DEFINE_SPEC(SampleSpecTest, "AROS.AROS.Tests.SampleSpecTest",
+﻿BEGIN_DEFINE_SPEC(SampleSpecTest, "PDFExport.PDFExport.Tests.SampleSpecTest",
 EAutomationTestFlags::EditorContext | EAutomationTestFlags::EngineFilter)
 int UsefulInteger = 0;
 void UtilityMethodForTest();
